@@ -9,7 +9,7 @@ issue_tracker: https://github.com/quartz-vmm/core/issues
 version: 0.1.0
 
 environment:
-  sdk: ^3.13.4
+  sdk: ^3.13.5
 
 dependencies:
   path: ^1.9.0
